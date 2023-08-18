@@ -8,3 +8,7 @@ function areaResult(idName, totalArea){
     const totalAreaResult = document.getElementById(idName);
     totalAreaResult.innerText = totalArea;
 }
+
+// function addToCalculationLog(areaType, areaValue){
+    
+// }
